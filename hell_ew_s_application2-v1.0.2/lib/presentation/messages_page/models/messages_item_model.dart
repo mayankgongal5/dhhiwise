@@ -1,0 +1,3 @@
+class MessagesItemModel {
+  String? id = "";
+}

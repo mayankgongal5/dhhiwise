@@ -1,0 +1,3 @@
+class GalleryItemModel {
+  String? id = "";
+}

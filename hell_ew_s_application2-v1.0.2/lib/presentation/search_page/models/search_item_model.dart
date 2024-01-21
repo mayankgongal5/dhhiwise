@@ -1,0 +1,3 @@
+class SearchItemModel {
+  String? id = "";
+}

@@ -1,0 +1,3 @@
+class ListavatarItemModel {
+  String? id = "";
+}

@@ -1,0 +1,3 @@
+class NotificationsItemModel {
+  String? id = "";
+}

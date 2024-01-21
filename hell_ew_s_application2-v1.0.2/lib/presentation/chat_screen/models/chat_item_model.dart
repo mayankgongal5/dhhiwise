@@ -1,0 +1,3 @@
+class ChatItemModel {
+  String? id = "";
+}
